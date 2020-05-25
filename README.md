@@ -1,7 +1,7 @@
 # RadioChartView v1.0
 Radial Chart View for Android [em desenvolvimento]
 
-![radio chart on São Paulo FC app](https://imgur.com/Fu5UQ2V)
+![radio chart on São Paulo FC app](https://i.imgur.com/Fu5UQ2V.jpg)
 
 **Este grafico foi criado para mostrar um comparativo entre dados de atletas.**
 
@@ -13,9 +13,4 @@ Ele segue a regra de desenvolvimento de views para Android de ser desenhado em u
 
 Foi minha primeira experiencia criando uma View no Android, achei bem simples o desenvolvimento e creio que irei desenvolver mais views como essa.
 
-irei atualizar o grafico para deixar ele mais customizavel, já que atualmente ele esta bem simples e quase sem customização por ser usado unicamente em uma tela do projeto todo
-
-
-
-
-
+Irei atualizar o grafico para deixar ele mais customizavel, já que atualmente ele esta bem simples e quase sem customização por ser usado unicamente em uma tela do projeto todo
